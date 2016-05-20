@@ -13,5 +13,3 @@ puts 'Ya elate pilenca pri batko'
 puts 'Hello from the other side'
 puts 'Can't let you go'
 puts 'Zadavai mi neudobni vuprosi'
-if true
-    puts 'Rock\'n\'roll'

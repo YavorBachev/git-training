@@ -6,3 +6,5 @@ puts Blah.get
 
 if true
     puts true Blah.get
+
+i az da napisha neshto
